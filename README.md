@@ -14,21 +14,21 @@
 
 ### 🛠️ Skills
 
-- ⚙️ C Programming  
-- ☕ Java  
+- ⚙️ C(89)  
+- ☕  Java  
+- 🔷 C++(98)
+- 🐧 Linux (Ubuntu, Debian)
+- 🧠 Problem Solving  
 - 🌐 HTML  
 - 🎨 CSS  
-- 📝 JavaScript  
-- 🧠 Problem Solving  
-- 🐧 Linux (Ubuntu, Debian)
+- 📝 JavaScript
 
 ---
 
 ### 💼 Projects
 
-1. 🔐 **JWT Authentication System** – A secure login system using JSON Web Tokens  
-2. 🐚 **Shell in C** – A custom shell implementation with basic command execution  
-3. 🎵 **Spotify Clone** – A frontend music streaming interface clone using HTML, CSS & JavaScript
+1. 🐚 **Shell using C** – A custom shell implementation with basic command execution
+2. 🔐 **JWT Authentication System** – A secure login system using JSON Web Tokens  
 
 ---
 
