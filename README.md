@@ -18,7 +18,8 @@
 - ☕  Java  
 - 🔷 C++(98)
 - 🐧 Linux (Ubuntu, Debian)
-- 🧠 Problem Solving  
+- 🗃️ DBMS – **MySQL 8**
+- 🧠 Problem Solving
 - 🌐 HTML  
 - 🎨 CSS  
 - 📝 JavaScript
@@ -28,7 +29,8 @@
 ### 💼 Projects
 
 1. 🐚 **Shell using C** – A custom shell implementation with basic command execution
-2. 🔐 **JWT Authentication System** – A secure login system using JSON Web Tokens  
+2. 🔗 **Linkly** - A library in C language for implementing linked list
+3. 🔐 **JWT Authentication System** – A secure login system using JSON Web Tokens  
 
 ---
 
